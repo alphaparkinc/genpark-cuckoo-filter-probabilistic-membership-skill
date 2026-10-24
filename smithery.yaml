@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-cuckoo-filter-probabilistic-membership-skill
+description: High-efficiency Cuckoo Filter with dynamic insertion, deletion, and fingerprint hashing for fast AI tool and cache lookups
+version: 1.0.1
+homepage: https://www.genpark.ai
