@@ -1,0 +1,9 @@
+{
+  "name": "genpark-cuckoo-filter-probabilistic-membership-skill",
+  "version": "1.0.1",
+  "description": "High-efficiency Cuckoo Filter with dynamic insertion, deletion, and fingerprint hashing for fast AI tool and cache lookups",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
